@@ -1,0 +1,1 @@
+# Differences-between-document-and-window-object
